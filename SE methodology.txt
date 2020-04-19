@@ -1,0 +1,7 @@
+SE Methodology  
+ 
+The agile methodology has been used to develop this project. using this methodology team members always have a working product.  
+also, GitHub is used for version control. so that members can collaborate from any place and no need to worry about integration. furthermore, GitHub provides a backup facility. 
+there are several designing phases available while the product was developed. including class diagram, activity diagram, workflow diagram, and ER diagram. Staruml was used to design these diagrams. 
+for the implementation, java, and MySQL had been used and eclipse IDE used to implement the java dynamic web application furthermore MySQL workbench is used to develop and maintain the database. 
+finally, for the testing and validation purposes, selenium and sonar cube has been used. 
